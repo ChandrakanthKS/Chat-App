@@ -1,0 +1,10 @@
+Requirements
+Server:
+npm init
+npm i express nodemon socket.io cors 
+
+Client:
+create-react-app .
+*npm install i node-modules
+npm i react-scroll-to-bottom
+npm install socket.io-client
